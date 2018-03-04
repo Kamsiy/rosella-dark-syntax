@@ -1,1 +1,1 @@
-# rosella-dark-syntax
+# Rosella Dark Syntax theme for [Atom](https://atom.io/).
